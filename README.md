@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Karen. I am a biomedical engineer. I am currently studying a Master's degree in Biomedical Engineering and a Master's degree in Neuroengineering and Rehabilitation.
 
 <!--
 **karen1345/karen1345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
